@@ -1,4 +1,4 @@
-# 忽略IAR临时文件夹
+﻿# 忽略IAR临时文件夹
 **/Obj
 **/List
 **/Exe
@@ -22,17 +22,7 @@
 *.gch
 *.pch
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
 
 # Executables
 *.exe
